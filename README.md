@@ -68,7 +68,7 @@ I enjoy solving algorithmic problems and improving my problem-solving skills thr
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Tuemay&show_icons=true&theme=radical" alt="Sara's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Tuemay&show_icons=true&theme=radical&hide_rank=true" alt="Sara's GitHub Stats"/>
 </p>
 
 <p align="left">
